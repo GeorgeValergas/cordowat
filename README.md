@@ -1,0 +1,4 @@
+cordowat
+========
+
+Cordova test application
